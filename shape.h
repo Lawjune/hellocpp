@@ -11,8 +11,7 @@ enum class shape_type
 class Shape 
 { 
 public:
-    Shape() { puts("Shape"); };
-    ~Shape() { puts("~Shape"); };
+    virtual ~Shape() {};
 };
 
 class Circle : public Shape 
