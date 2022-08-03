@@ -53,7 +53,11 @@
     "streambuf": "cpp",
     "thread": "cpp",
     "cinttypes": "cpp",
-    "typeinfo": "cpp"
+    "typeinfo": "cpp",
+    "stack": "cpp",
+    "list": "cpp",
+    "set": "cpp",
+    "unordered_set": "cpp"
   },
   "C_Cpp.errorSquiggles": "Disabled"
 }
